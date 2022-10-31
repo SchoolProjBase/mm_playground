@@ -1,4 +1,4 @@
-# MM Exploration
+# [MM Exploration](https://github.com/SchoolProjBase/mm_playground)
 ## Usage
 ### installation (assumed in a [conda] virtual env)
 ```bash
